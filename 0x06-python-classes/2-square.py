@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author: Babatunde Olaniyi
+# Author: Oluwatobi Fatokun
 
 """Define a class Square."""
 
